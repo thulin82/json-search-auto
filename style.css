@@ -1,0 +1,40 @@
+body {
+	background-color: #EEE;
+}
+
+#center {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table th{
+    background-color: orange;
+    color: white;
+}
+
+table td{
+    border: 1px dotted orange;
+    padding: 10px;
+}
+
+table tr:nth-child(odd){
+    background-color: #DBDBC5;
+}
+
+table tr:nth-child(even){
+    background-color: #FFF;
+}
+
+#submit{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+input {
+	border: 1px dotted orange;
+}
