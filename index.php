@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <title>Search Json with AJAX, PHP and HTML</title>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="main.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
